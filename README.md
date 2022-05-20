@@ -1,4 +1,4 @@
-# BookSource
+# 爱阅读书源 (BookSource)
 
 书源地址 `https://raw.githubusercontent.com/Yeekyo/BookSource/main/203readSource.json`
 

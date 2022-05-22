@@ -4,11 +4,11 @@
 
 书源二维码:
 
-![书源二维码](https://s3.bmp.ovh/imgs/2022/05/20/393386ea91f97e8b.jpg "QRCode_TOhG.jpg")
+![书源二维码](https://s1.ax1x.com/2022/05/22/OxQV4H.jpg "QRCode_TOhG.jpg")
 
 视频源二维码:
 
-![视频源](https://s3.bmp.ovh/imgs/2022/05/20/d30fe27f984fe0ee.jpg "videos.jpg")
+![视频源](https://s1.ax1x.com/2022/05/22/OxQYCj.jpg "videos.jpg")
 
 https://raw.githubusercontent.com/Yeekyo/BookSource/main/maoVideo.rhb
 

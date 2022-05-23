@@ -8,7 +8,7 @@
 
 视频源二维码:
 
-![视频源](https://s1.ax1x.com/2022/05/22/Ox3G5D.jpg "videos.jpg")
+![视频源](https://bitbucket.org/yeekyo/readhub/downloads/vsource.jpg "videos.jpg")
 
 https://raw.githubusercontent.com/Yeekyo/BookSource/main/maoVideo.rhb
 

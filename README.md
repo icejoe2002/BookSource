@@ -4,7 +4,7 @@
 
 书源二维码:
 
-![书源二维码](https://s1.ax1x.com/2022/05/22/Ox1Z6I.jpg "QRCode_TOhG.jpg")
+![书源二维码](https://bitbucket.org/yeekyo/readhub/downloads/bksource.jpg "QRCode_TOhG.jpg")
 
 视频源二维码:
 

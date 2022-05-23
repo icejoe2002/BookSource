@@ -1,6 +1,6 @@
 # 爱阅读书源 (BookSource)
 
-书源地址 `https://raw.githubusercontent.com/Yeekyo/BookSource/main/203readSource.json`
+书源地址 `https://bitbucket.org/yeekyo/readhub/raw/5b0ef35fc691360c4bbb822f99d0bed04a50d6b3/203readSource.json`
 
 书源二维码:
 
